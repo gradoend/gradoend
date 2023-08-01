@@ -8,6 +8,6 @@
 
 <details>
   <summary>📫 How to reach me?</summary>
-  <b>Email:</b> <a href="kadeluxe@gmail.com">kadeluxe@</a><br>
+  <b>Email:</b> <a href="kadeluxe@gmail.com">kadeluxe@gmail.com</a><br>
   <b>Discord:</b> kadeluxe1<br>
 </details>
